@@ -1,0 +1,18 @@
+body {
+    font-family: 'Fredoka', sans-serif;
+
+}
+
+.content {
+    max-width: 960px;
+    margin: auto;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: darkblue;
+}
+img {
+    height: auto;
+    width: 60%;
+}
