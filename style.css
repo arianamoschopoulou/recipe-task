@@ -6,6 +6,7 @@ body {
 .container {
     max-width: 960px;
     margin: auto;
+    padding: 0px, 15px, 30px, 15px;
 }
 h1 {
     font-family: Arial, Helvetica, sans-serif;
