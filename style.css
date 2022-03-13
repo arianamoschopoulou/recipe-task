@@ -13,7 +13,21 @@ h1 {
     color: darkblue;
     text-align: center;
 }
+h3 {
+    color:blueviolet;
+}
+h4{
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
 img {
     height: auto;
     width: 60%;
+
+}
+img.centre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
